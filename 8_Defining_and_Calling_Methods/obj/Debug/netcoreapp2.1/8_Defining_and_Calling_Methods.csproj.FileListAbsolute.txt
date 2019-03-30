@@ -1,0 +1,10 @@
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/8_Defining_and_Calling_Methods/bin/Debug/netcoreapp2.1/8_Defining_and_Calling_Methods.deps.json
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/8_Defining_and_Calling_Methods/bin/Debug/netcoreapp2.1/8_Defining_and_Calling_Methods.runtimeconfig.json
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/8_Defining_and_Calling_Methods/bin/Debug/netcoreapp2.1/8_Defining_and_Calling_Methods.runtimeconfig.dev.json
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/8_Defining_and_Calling_Methods/bin/Debug/netcoreapp2.1/8_Defining_and_Calling_Methods.dll
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/8_Defining_and_Calling_Methods/bin/Debug/netcoreapp2.1/8_Defining_and_Calling_Methods.pdb
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/8_Defining_and_Calling_Methods/obj/Debug/netcoreapp2.1/8_Defining_and_Calling_Methods.csproj.CoreCompileInputs.cache
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/8_Defining_and_Calling_Methods/obj/Debug/netcoreapp2.1/8_Defining_and_Calling_Methods.AssemblyInfoInputs.cache
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/8_Defining_and_Calling_Methods/obj/Debug/netcoreapp2.1/8_Defining_and_Calling_Methods.AssemblyInfo.cs
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/8_Defining_and_Calling_Methods/obj/Debug/netcoreapp2.1/8_Defining_and_Calling_Methods.dll
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/8_Defining_and_Calling_Methods/obj/Debug/netcoreapp2.1/8_Defining_and_Calling_Methods.pdb

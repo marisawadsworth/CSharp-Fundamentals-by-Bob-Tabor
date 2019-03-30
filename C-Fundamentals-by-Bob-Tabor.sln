@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6_For_Iteration_Statement",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7_Understanding_Arrays", "7_Understanding_Arrays\7_Understanding_Arrays.csproj", "{69215DD7-F056-482E-B64A-17E3A49CC3B6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8_Defining_and_Calling_Methods", "8_Defining_and_Calling_Methods\8_Defining_and_Calling_Methods.csproj", "{000C1429-1A8A-4E5A-B88D-561F25CF31AF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -49,5 +51,9 @@ Global
 		{69215DD7-F056-482E-B64A-17E3A49CC3B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{69215DD7-F056-482E-B64A-17E3A49CC3B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{69215DD7-F056-482E-B64A-17E3A49CC3B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{000C1429-1A8A-4E5A-B88D-561F25CF31AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{000C1429-1A8A-4E5A-B88D-561F25CF31AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{000C1429-1A8A-4E5A-B88D-561F25CF31AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{000C1429-1A8A-4E5A-B88D-561F25CF31AF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
