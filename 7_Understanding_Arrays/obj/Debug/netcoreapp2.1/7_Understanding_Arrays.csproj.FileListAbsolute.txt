@@ -1,0 +1,10 @@
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/7_Understanding_Arrays/bin/Debug/netcoreapp2.1/7_Understanding_Arrays.deps.json
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/7_Understanding_Arrays/bin/Debug/netcoreapp2.1/7_Understanding_Arrays.runtimeconfig.json
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/7_Understanding_Arrays/bin/Debug/netcoreapp2.1/7_Understanding_Arrays.runtimeconfig.dev.json
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/7_Understanding_Arrays/bin/Debug/netcoreapp2.1/7_Understanding_Arrays.dll
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/7_Understanding_Arrays/bin/Debug/netcoreapp2.1/7_Understanding_Arrays.pdb
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/7_Understanding_Arrays/obj/Debug/netcoreapp2.1/7_Understanding_Arrays.csproj.CoreCompileInputs.cache
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/7_Understanding_Arrays/obj/Debug/netcoreapp2.1/7_Understanding_Arrays.AssemblyInfoInputs.cache
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/7_Understanding_Arrays/obj/Debug/netcoreapp2.1/7_Understanding_Arrays.AssemblyInfo.cs
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/7_Understanding_Arrays/obj/Debug/netcoreapp2.1/7_Understanding_Arrays.dll
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/7_Understanding_Arrays/obj/Debug/netcoreapp2.1/7_Understanding_Arrays.pdb
