@@ -1,0 +1,10 @@
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/6_For_Iteration_Statement/bin/Debug/netcoreapp2.1/6_For_Iteration_Statement.deps.json
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/6_For_Iteration_Statement/bin/Debug/netcoreapp2.1/6_For_Iteration_Statement.runtimeconfig.json
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/6_For_Iteration_Statement/bin/Debug/netcoreapp2.1/6_For_Iteration_Statement.runtimeconfig.dev.json
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/6_For_Iteration_Statement/bin/Debug/netcoreapp2.1/6_For_Iteration_Statement.dll
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/6_For_Iteration_Statement/bin/Debug/netcoreapp2.1/6_For_Iteration_Statement.pdb
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/6_For_Iteration_Statement/obj/Debug/netcoreapp2.1/6_For_Iteration_Statement.csproj.CoreCompileInputs.cache
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/6_For_Iteration_Statement/obj/Debug/netcoreapp2.1/6_For_Iteration_Statement.AssemblyInfoInputs.cache
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/6_For_Iteration_Statement/obj/Debug/netcoreapp2.1/6_For_Iteration_Statement.AssemblyInfo.cs
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/6_For_Iteration_Statement/obj/Debug/netcoreapp2.1/6_For_Iteration_Statement.dll
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/6_For_Iteration_Statement/obj/Debug/netcoreapp2.1/6_For_Iteration_Statement.pdb
