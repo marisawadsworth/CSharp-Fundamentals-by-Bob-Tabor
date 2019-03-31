@@ -1,0 +1,10 @@
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/12_Understanding_Classes/obj/Debug/netcoreapp2.1/12_Understanding_Classes.csproj.CoreCompileInputs.cache
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/12_Understanding_Classes/obj/Debug/netcoreapp2.1/12_Understanding_Classes.AssemblyInfoInputs.cache
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/12_Understanding_Classes/obj/Debug/netcoreapp2.1/12_Understanding_Classes.AssemblyInfo.cs
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/12_Understanding_Classes/bin/Debug/netcoreapp2.1/12_Understanding_Classes.deps.json
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/12_Understanding_Classes/bin/Debug/netcoreapp2.1/12_Understanding_Classes.runtimeconfig.json
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/12_Understanding_Classes/bin/Debug/netcoreapp2.1/12_Understanding_Classes.runtimeconfig.dev.json
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/12_Understanding_Classes/bin/Debug/netcoreapp2.1/12_Understanding_Classes.dll
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/12_Understanding_Classes/bin/Debug/netcoreapp2.1/12_Understanding_Classes.pdb
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/12_Understanding_Classes/obj/Debug/netcoreapp2.1/12_Understanding_Classes.dll
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/12_Understanding_Classes/obj/Debug/netcoreapp2.1/12_Understanding_Classes.pdb

@@ -1,42 +1,39 @@
-﻿<Properties StartupConfiguration="{000C1429-1A8A-4E5A-B88D-561F25CF31AF}|Default">
+﻿<Properties StartupConfiguration="{1A9E3B58-B85E-48C7-9304-A6C625A31EEF}|Default">
   <MonoDevelop.Ide.ItemProperties.3__Data__Types__and__Variables FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.6__For__Iteration__Statement PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.1__HelloWorld FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.8__Defining__and__Calling__Methods PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.5__Operators__Expressions__and__Statements FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.10__Working__with__Strings FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.7__Understanding__Arrays PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="8_Defining_and_Calling_Methods/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="9_While_Iteration_Statement/Program.cs">
     <Files>
+      <File FileName="12_Understanding_Classes/Program.cs" Line="9" Column="13" />
       <File FileName="2_Variables/Program.cs" Line="6" Column="26" />
-      <File FileName="3_Data_Types_and_Variables/Program.cs" Line="6" Column="26" />
-      <File FileName="1_HelloWorld/Program.cs" Line="13" Column="1" />
-      <File FileName="4_If_Decision_Statement/Program.cs" Line="6" Column="26" />
       <File FileName="5_Operators_Expressions_and_Statements/Program.cs" Line="6" Column="26" />
-      <File FileName="6_For_Iteration_Statement/Program.cs" Line="30" Column="42" />
-      <File FileName="7_Understanding_Arrays/Program.cs" Line="67" Column="32" />
-      <File FileName="8_Defining_and_Calling_Methods/Program.cs" Line="9" Column="1" />
-      <File FileName="8_Defining_and_Calling_Methods/NameGame.cs" Line="28" Column="33" />
+      <File FileName="9_While_Iteration_Statement/Program.cs" Line="13" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="C-Fundamentals-by-Bob-Tabor" expanded="True">
-            <Node name="1_HelloWorld" expanded="True" />
-            <Node name="2_Variables" expanded="True" />
-            <Node name="3_Data_Types_and_Variables" expanded="True" />
-            <Node name="4_If_Decision_Statement" expanded="True" />
-            <Node name="5_Operators_Expressions_and_Statements" expanded="True" />
-            <Node name="6_For_Iteration_Statement" expanded="True" />
-            <Node name="7_Understanding_Arrays" expanded="True" />
-            <Node name="8_Defining_and_Calling_Methods" expanded="True" />
+            <Node name="9_While_Iteration_Statement" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="12_Understanding_Classes" expanded="True" />
+            <Node name="13_More_About_Classes_and_Methods" expanded="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.2__Variables FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.12__Understanding__Classes PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.13__More__About__Classes__and__Methods FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.9__While__Iteration__Statement FirstBuild="True" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.11__Working__with__Dates__and__Times FirstBuild="True" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
       <Breakpoint enabled="false" file="/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/6_For_Iteration_Statement/Program.cs" relfile="6_For_Iteration_Statement/Program.cs" line="21" column="1" />
