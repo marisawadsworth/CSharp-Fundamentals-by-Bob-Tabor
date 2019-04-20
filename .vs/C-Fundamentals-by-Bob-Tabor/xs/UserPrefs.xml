@@ -3,20 +3,20 @@
   <MonoDevelop.Ide.ItemProperties.8__Defining__and__Calling__Methods PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.10__Working__with__Strings PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.7__Understanding__Arrays PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="1_HelloWorld/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="2_Variables/Program.cs">
     <Files>
       <File FileName="10_Working_with_Strings/Program.cs" Line="2" Column="1" />
       <File FileName="11_Working_with_Dates_and_Times/Program.cs" Line="17" Column="1" />
-      <File FileName="1_HelloWorld/Program.cs" Line="5" Column="30" />
+      <File FileName="2_Variables/Program.cs" Line="2" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="C-Fundamentals-by-Bob-Tabor" expanded="True">
-            <Node name="1_HelloWorld" expanded="True">
+            <Node name="11_Working_with_Dates_and_Times" expanded="True" />
+            <Node name="2_Variables" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
-            <Node name="11_Working_with_Dates_and_Times" expanded="True" />
             <Node name="9_While_Iteration_Statement" expanded="True" />
           </Node>
         </State>
