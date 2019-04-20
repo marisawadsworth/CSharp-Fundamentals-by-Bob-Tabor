@@ -1,18 +1,18 @@
-﻿<Properties StartupConfiguration="{4970332D-5D94-41F1-860E-CF4924809F4C}|Default">
+﻿<Properties StartupConfiguration="{3073D877-B077-41B2-9A27-168DD07CDEBB}|Default">
   <MonoDevelop.Ide.ItemProperties.6__For__Iteration__Statement PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.8__Defining__and__Calling__Methods PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.10__Working__with__Strings PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.7__Understanding__Arrays PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="13_More_About_Classes_and_Methods/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="14_Understanding_Scope_and_Accessibility_Modifiers/Program.cs">
     <Files>
-      <File FileName="13_More_About_Classes_and_Methods/Program.cs" Line="24" Column="2" />
+      <File FileName="14_Understanding_Scope_and_Accessibility_Modifiers/Program.cs" Line="35" Column="28" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="C-Fundamentals-by-Bob-Tabor" expanded="True">
-            <Node name="12_Understanding_Classes" expanded="True" />
-            <Node name="13_More_About_Classes_and_Methods" expanded="True">
+            <Node name="13_More_About_Classes_and_Methods" expanded="True" />
+            <Node name="14_Understanding_Scope_and_Accessibility_Modifiers" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -22,6 +22,8 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.2__Variables PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.12__Understanding__Classes PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.14__Understanding__Scope__and__Accessibility__Modifiers PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.13__More__About__Classes__and__Methods PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.9__While__Iteration__Statement PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
