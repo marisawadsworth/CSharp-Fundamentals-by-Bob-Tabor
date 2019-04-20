@@ -1,4 +1,6 @@
-﻿<Properties StartupConfiguration="{1A9E3B58-B85E-48C7-9304-A6C625A31EEF}|Default">
+﻿<Properties StartupConfiguration="{87290FE7-8CC2-46A9-8351-913AE321348A}|Default">
+  <MonoDevelop.Ide.ItemProperties.15__Understanding__Namespace__and__Working__with__the__.Net__Class__Library FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.19__Enumerations__and__the__Switch__Decision__Statement FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.3__Data__Types__and__Variables FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.6__For__Iteration__Statement PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.1__HelloWorld FirstBuild="True" />
@@ -6,12 +8,11 @@
   <MonoDevelop.Ide.ItemProperties.5__Operators__Expressions__and__Statements FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.10__Working__with__Strings FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.7__Understanding__Arrays PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.18__Working__with__LINQ FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.17__Working__with__Collections FirstBuild="True" />
   <MonoDevelop.Ide.Workbench ActiveDocument="9_While_Iteration_Statement/Program.cs">
     <Files>
-      <File FileName="12_Understanding_Classes/Program.cs" Line="9" Column="13" />
-      <File FileName="2_Variables/Program.cs" Line="6" Column="26" />
-      <File FileName="5_Operators_Expressions_and_Statements/Program.cs" Line="6" Column="26" />
-      <File FileName="9_While_Iteration_Statement/Program.cs" Line="13" Column="1" />
+      <File FileName="9_While_Iteration_Statement/Program.cs" Line="45" Column="14" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -20,8 +21,6 @@
             <Node name="9_While_Iteration_Statement" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
-            <Node name="12_Understanding_Classes" expanded="True" />
-            <Node name="13_More_About_Classes_and_Methods" expanded="True" />
           </Node>
         </State>
       </Pad>
@@ -29,8 +28,12 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.2__Variables FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.12__Understanding__Classes PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.14__Understanding__Scope__and__Accessibility__Modifiers FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.16__Creating__and__Adding__References__to__Assemblies FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.21__Understanding__Events__and__Event-Driven__Programming FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.13__More__About__Classes__and__Methods FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.9__While__Iteration__Statement FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.9__While__Iteration__Statement PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.20__Gracefully__Handling__Exceptions FirstBuild="True" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.11__Working__with__Dates__and__Times FirstBuild="True" />
