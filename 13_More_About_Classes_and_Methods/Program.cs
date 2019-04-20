@@ -10,7 +10,7 @@ namespace _13_More_About_Classes_and_Methods
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+
         }
     }
 }
