@@ -1,0 +1,10 @@
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/14_Understanding_Scope_and_Accessibility_Modifiers/bin/Debug/netcoreapp2.1/14_Understanding_Scope_and_Accessibility_Modifiers.deps.json
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/14_Understanding_Scope_and_Accessibility_Modifiers/bin/Debug/netcoreapp2.1/14_Understanding_Scope_and_Accessibility_Modifiers.runtimeconfig.json
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/14_Understanding_Scope_and_Accessibility_Modifiers/bin/Debug/netcoreapp2.1/14_Understanding_Scope_and_Accessibility_Modifiers.runtimeconfig.dev.json
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/14_Understanding_Scope_and_Accessibility_Modifiers/bin/Debug/netcoreapp2.1/14_Understanding_Scope_and_Accessibility_Modifiers.dll
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/14_Understanding_Scope_and_Accessibility_Modifiers/bin/Debug/netcoreapp2.1/14_Understanding_Scope_and_Accessibility_Modifiers.pdb
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/14_Understanding_Scope_and_Accessibility_Modifiers/obj/Debug/netcoreapp2.1/14_Understanding_Scope_and_Accessibility_Modifiers.csproj.CoreCompileInputs.cache
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/14_Understanding_Scope_and_Accessibility_Modifiers/obj/Debug/netcoreapp2.1/14_Understanding_Scope_and_Accessibility_Modifiers.AssemblyInfoInputs.cache
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/14_Understanding_Scope_and_Accessibility_Modifiers/obj/Debug/netcoreapp2.1/14_Understanding_Scope_and_Accessibility_Modifiers.AssemblyInfo.cs
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/14_Understanding_Scope_and_Accessibility_Modifiers/obj/Debug/netcoreapp2.1/14_Understanding_Scope_and_Accessibility_Modifiers.dll
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/14_Understanding_Scope_and_Accessibility_Modifiers/obj/Debug/netcoreapp2.1/14_Understanding_Scope_and_Accessibility_Modifiers.pdb

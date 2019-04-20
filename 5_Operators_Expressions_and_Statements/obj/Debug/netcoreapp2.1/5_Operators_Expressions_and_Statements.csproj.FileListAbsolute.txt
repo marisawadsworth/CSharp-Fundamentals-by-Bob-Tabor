@@ -1,0 +1,11 @@
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/5_Operators_Expressions_and_Statements/bin/Debug/netcoreapp2.1/5_Operators_Expressions_and_Statements.deps.json
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/5_Operators_Expressions_and_Statements/bin/Debug/netcoreapp2.1/5_Operators_Expressions_and_Statements.runtimeconfig.json
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/5_Operators_Expressions_and_Statements/bin/Debug/netcoreapp2.1/5_Operators_Expressions_and_Statements.runtimeconfig.dev.json
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/5_Operators_Expressions_and_Statements/bin/Debug/netcoreapp2.1/5_Operators_Expressions_and_Statements.dll
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/5_Operators_Expressions_and_Statements/bin/Debug/netcoreapp2.1/5_Operators_Expressions_and_Statements.pdb
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/5_Operators_Expressions_and_Statements/obj/Debug/netcoreapp2.1/5_Operators_Expressions_and_Statements.csprojAssemblyReference.cache
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/5_Operators_Expressions_and_Statements/obj/Debug/netcoreapp2.1/5_Operators_Expressions_and_Statements.csproj.CoreCompileInputs.cache
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/5_Operators_Expressions_and_Statements/obj/Debug/netcoreapp2.1/5_Operators_Expressions_and_Statements.AssemblyInfoInputs.cache
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/5_Operators_Expressions_and_Statements/obj/Debug/netcoreapp2.1/5_Operators_Expressions_and_Statements.AssemblyInfo.cs
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/5_Operators_Expressions_and_Statements/obj/Debug/netcoreapp2.1/5_Operators_Expressions_and_Statements.dll
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/5_Operators_Expressions_and_Statements/obj/Debug/netcoreapp2.1/5_Operators_Expressions_and_Statements.pdb

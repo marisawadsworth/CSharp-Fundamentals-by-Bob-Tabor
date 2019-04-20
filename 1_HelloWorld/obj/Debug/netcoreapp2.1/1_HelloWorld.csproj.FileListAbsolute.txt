@@ -1,0 +1,10 @@
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/1_HelloWorld/bin/Debug/netcoreapp2.1/1_HelloWorld.deps.json
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/1_HelloWorld/bin/Debug/netcoreapp2.1/1_HelloWorld.runtimeconfig.json
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/1_HelloWorld/bin/Debug/netcoreapp2.1/1_HelloWorld.runtimeconfig.dev.json
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/1_HelloWorld/bin/Debug/netcoreapp2.1/1_HelloWorld.dll
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/1_HelloWorld/bin/Debug/netcoreapp2.1/1_HelloWorld.pdb
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/1_HelloWorld/obj/Debug/netcoreapp2.1/1_HelloWorld.csproj.CoreCompileInputs.cache
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/1_HelloWorld/obj/Debug/netcoreapp2.1/1_HelloWorld.AssemblyInfoInputs.cache
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/1_HelloWorld/obj/Debug/netcoreapp2.1/1_HelloWorld.AssemblyInfo.cs
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/1_HelloWorld/obj/Debug/netcoreapp2.1/1_HelloWorld.dll
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/1_HelloWorld/obj/Debug/netcoreapp2.1/1_HelloWorld.pdb

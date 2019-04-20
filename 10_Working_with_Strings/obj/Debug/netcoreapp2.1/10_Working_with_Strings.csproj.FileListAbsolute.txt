@@ -1,0 +1,11 @@
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/10_Working_with_Strings/bin/Debug/netcoreapp2.1/10_Working_with_Strings.deps.json
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/10_Working_with_Strings/bin/Debug/netcoreapp2.1/10_Working_with_Strings.runtimeconfig.json
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/10_Working_with_Strings/bin/Debug/netcoreapp2.1/10_Working_with_Strings.runtimeconfig.dev.json
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/10_Working_with_Strings/bin/Debug/netcoreapp2.1/10_Working_with_Strings.dll
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/10_Working_with_Strings/bin/Debug/netcoreapp2.1/10_Working_with_Strings.pdb
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/10_Working_with_Strings/obj/Debug/netcoreapp2.1/10_Working_with_Strings.csprojAssemblyReference.cache
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/10_Working_with_Strings/obj/Debug/netcoreapp2.1/10_Working_with_Strings.csproj.CoreCompileInputs.cache
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/10_Working_with_Strings/obj/Debug/netcoreapp2.1/10_Working_with_Strings.AssemblyInfoInputs.cache
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/10_Working_with_Strings/obj/Debug/netcoreapp2.1/10_Working_with_Strings.AssemblyInfo.cs
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/10_Working_with_Strings/obj/Debug/netcoreapp2.1/10_Working_with_Strings.dll
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/10_Working_with_Strings/obj/Debug/netcoreapp2.1/10_Working_with_Strings.pdb

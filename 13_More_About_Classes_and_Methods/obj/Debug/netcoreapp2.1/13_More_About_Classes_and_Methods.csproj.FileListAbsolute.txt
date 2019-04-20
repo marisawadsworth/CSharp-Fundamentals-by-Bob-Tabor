@@ -1,0 +1,10 @@
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/13_More_About_Classes_and_Methods/bin/Debug/netcoreapp2.1/13_More_About_Classes_and_Methods.deps.json
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/13_More_About_Classes_and_Methods/bin/Debug/netcoreapp2.1/13_More_About_Classes_and_Methods.runtimeconfig.json
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/13_More_About_Classes_and_Methods/bin/Debug/netcoreapp2.1/13_More_About_Classes_and_Methods.runtimeconfig.dev.json
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/13_More_About_Classes_and_Methods/bin/Debug/netcoreapp2.1/13_More_About_Classes_and_Methods.dll
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/13_More_About_Classes_and_Methods/bin/Debug/netcoreapp2.1/13_More_About_Classes_and_Methods.pdb
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/13_More_About_Classes_and_Methods/obj/Debug/netcoreapp2.1/13_More_About_Classes_and_Methods.csproj.CoreCompileInputs.cache
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/13_More_About_Classes_and_Methods/obj/Debug/netcoreapp2.1/13_More_About_Classes_and_Methods.AssemblyInfoInputs.cache
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/13_More_About_Classes_and_Methods/obj/Debug/netcoreapp2.1/13_More_About_Classes_and_Methods.AssemblyInfo.cs
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/13_More_About_Classes_and_Methods/obj/Debug/netcoreapp2.1/13_More_About_Classes_and_Methods.dll
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/13_More_About_Classes_and_Methods/obj/Debug/netcoreapp2.1/13_More_About_Classes_and_Methods.pdb

@@ -1,0 +1,10 @@
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/18_Working_with_LINQ/bin/Debug/netcoreapp2.1/18_Working_with_LINQ.deps.json
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/18_Working_with_LINQ/bin/Debug/netcoreapp2.1/18_Working_with_LINQ.runtimeconfig.json
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/18_Working_with_LINQ/bin/Debug/netcoreapp2.1/18_Working_with_LINQ.runtimeconfig.dev.json
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/18_Working_with_LINQ/bin/Debug/netcoreapp2.1/18_Working_with_LINQ.dll
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/18_Working_with_LINQ/bin/Debug/netcoreapp2.1/18_Working_with_LINQ.pdb
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/18_Working_with_LINQ/obj/Debug/netcoreapp2.1/18_Working_with_LINQ.csproj.CoreCompileInputs.cache
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/18_Working_with_LINQ/obj/Debug/netcoreapp2.1/18_Working_with_LINQ.AssemblyInfoInputs.cache
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/18_Working_with_LINQ/obj/Debug/netcoreapp2.1/18_Working_with_LINQ.AssemblyInfo.cs
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/18_Working_with_LINQ/obj/Debug/netcoreapp2.1/18_Working_with_LINQ.dll
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/18_Working_with_LINQ/obj/Debug/netcoreapp2.1/18_Working_with_LINQ.pdb

@@ -4,6 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//Why choose a do … while statement?
+//Because you need to execute the block of code at least once
+
+//Why should you use a while iteration statement instead of a for iteration statement?
+// Because you want to continue iterating through a block of code until a given condition is no longer true
+
 namespace _9_While_Iteration_Statement
 {
     class Program

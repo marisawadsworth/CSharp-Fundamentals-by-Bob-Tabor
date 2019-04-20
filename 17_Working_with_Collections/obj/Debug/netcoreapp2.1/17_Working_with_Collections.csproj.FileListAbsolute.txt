@@ -1,0 +1,10 @@
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/17_Working_with_Collections/bin/Debug/netcoreapp2.1/17_Working_with_Collections.deps.json
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/17_Working_with_Collections/bin/Debug/netcoreapp2.1/17_Working_with_Collections.runtimeconfig.json
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/17_Working_with_Collections/bin/Debug/netcoreapp2.1/17_Working_with_Collections.runtimeconfig.dev.json
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/17_Working_with_Collections/bin/Debug/netcoreapp2.1/17_Working_with_Collections.dll
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/17_Working_with_Collections/bin/Debug/netcoreapp2.1/17_Working_with_Collections.pdb
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/17_Working_with_Collections/obj/Debug/netcoreapp2.1/17_Working_with_Collections.csproj.CoreCompileInputs.cache
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/17_Working_with_Collections/obj/Debug/netcoreapp2.1/17_Working_with_Collections.AssemblyInfoInputs.cache
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/17_Working_with_Collections/obj/Debug/netcoreapp2.1/17_Working_with_Collections.AssemblyInfo.cs
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/17_Working_with_Collections/obj/Debug/netcoreapp2.1/17_Working_with_Collections.dll
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/17_Working_with_Collections/obj/Debug/netcoreapp2.1/17_Working_with_Collections.pdb

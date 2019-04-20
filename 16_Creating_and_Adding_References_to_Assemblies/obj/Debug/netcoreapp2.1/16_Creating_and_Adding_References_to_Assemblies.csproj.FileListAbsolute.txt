@@ -1,0 +1,10 @@
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/16_Creating_and_Adding_References_to_Assemblies/bin/Debug/netcoreapp2.1/16_Creating_and_Adding_References_to_Assemblies.deps.json
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/16_Creating_and_Adding_References_to_Assemblies/bin/Debug/netcoreapp2.1/16_Creating_and_Adding_References_to_Assemblies.runtimeconfig.json
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/16_Creating_and_Adding_References_to_Assemblies/bin/Debug/netcoreapp2.1/16_Creating_and_Adding_References_to_Assemblies.runtimeconfig.dev.json
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/16_Creating_and_Adding_References_to_Assemblies/bin/Debug/netcoreapp2.1/16_Creating_and_Adding_References_to_Assemblies.dll
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/16_Creating_and_Adding_References_to_Assemblies/bin/Debug/netcoreapp2.1/16_Creating_and_Adding_References_to_Assemblies.pdb
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/16_Creating_and_Adding_References_to_Assemblies/obj/Debug/netcoreapp2.1/16_Creating_and_Adding_References_to_Assemblies.csproj.CoreCompileInputs.cache
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/16_Creating_and_Adding_References_to_Assemblies/obj/Debug/netcoreapp2.1/16_Creating_and_Adding_References_to_Assemblies.AssemblyInfoInputs.cache
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/16_Creating_and_Adding_References_to_Assemblies/obj/Debug/netcoreapp2.1/16_Creating_and_Adding_References_to_Assemblies.AssemblyInfo.cs
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/16_Creating_and_Adding_References_to_Assemblies/obj/Debug/netcoreapp2.1/16_Creating_and_Adding_References_to_Assemblies.dll
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/16_Creating_and_Adding_References_to_Assemblies/obj/Debug/netcoreapp2.1/16_Creating_and_Adding_References_to_Assemblies.pdb

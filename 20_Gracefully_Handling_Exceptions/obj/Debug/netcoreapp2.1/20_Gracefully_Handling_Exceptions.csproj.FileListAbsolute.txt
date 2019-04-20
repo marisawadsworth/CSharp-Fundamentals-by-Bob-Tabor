@@ -1,0 +1,10 @@
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/20_Gracefully_Handling_Exceptions/bin/Debug/netcoreapp2.1/20_Gracefully_Handling_Exceptions.deps.json
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/20_Gracefully_Handling_Exceptions/bin/Debug/netcoreapp2.1/20_Gracefully_Handling_Exceptions.runtimeconfig.json
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/20_Gracefully_Handling_Exceptions/bin/Debug/netcoreapp2.1/20_Gracefully_Handling_Exceptions.runtimeconfig.dev.json
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/20_Gracefully_Handling_Exceptions/bin/Debug/netcoreapp2.1/20_Gracefully_Handling_Exceptions.dll
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/20_Gracefully_Handling_Exceptions/bin/Debug/netcoreapp2.1/20_Gracefully_Handling_Exceptions.pdb
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/20_Gracefully_Handling_Exceptions/obj/Debug/netcoreapp2.1/20_Gracefully_Handling_Exceptions.csproj.CoreCompileInputs.cache
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/20_Gracefully_Handling_Exceptions/obj/Debug/netcoreapp2.1/20_Gracefully_Handling_Exceptions.AssemblyInfoInputs.cache
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/20_Gracefully_Handling_Exceptions/obj/Debug/netcoreapp2.1/20_Gracefully_Handling_Exceptions.AssemblyInfo.cs
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/20_Gracefully_Handling_Exceptions/obj/Debug/netcoreapp2.1/20_Gracefully_Handling_Exceptions.dll
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/20_Gracefully_Handling_Exceptions/obj/Debug/netcoreapp2.1/20_Gracefully_Handling_Exceptions.pdb

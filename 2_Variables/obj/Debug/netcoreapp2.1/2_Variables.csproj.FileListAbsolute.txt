@@ -1,0 +1,10 @@
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/2_Variables/bin/Debug/netcoreapp2.1/2_Variables.deps.json
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/2_Variables/bin/Debug/netcoreapp2.1/2_Variables.runtimeconfig.json
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/2_Variables/bin/Debug/netcoreapp2.1/2_Variables.runtimeconfig.dev.json
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/2_Variables/bin/Debug/netcoreapp2.1/2_Variables.dll
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/2_Variables/bin/Debug/netcoreapp2.1/2_Variables.pdb
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/2_Variables/obj/Debug/netcoreapp2.1/2_Variables.csproj.CoreCompileInputs.cache
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/2_Variables/obj/Debug/netcoreapp2.1/2_Variables.AssemblyInfoInputs.cache
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/2_Variables/obj/Debug/netcoreapp2.1/2_Variables.AssemblyInfo.cs
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/2_Variables/obj/Debug/netcoreapp2.1/2_Variables.dll
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/2_Variables/obj/Debug/netcoreapp2.1/2_Variables.pdb

@@ -1,0 +1,10 @@
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/4_If_Decision_Statement/bin/Debug/netcoreapp2.1/4_If_Decision_Statement.deps.json
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/4_If_Decision_Statement/bin/Debug/netcoreapp2.1/4_If_Decision_Statement.runtimeconfig.json
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/4_If_Decision_Statement/bin/Debug/netcoreapp2.1/4_If_Decision_Statement.runtimeconfig.dev.json
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/4_If_Decision_Statement/bin/Debug/netcoreapp2.1/4_If_Decision_Statement.dll
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/4_If_Decision_Statement/bin/Debug/netcoreapp2.1/4_If_Decision_Statement.pdb
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/4_If_Decision_Statement/obj/Debug/netcoreapp2.1/4_If_Decision_Statement.csproj.CoreCompileInputs.cache
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/4_If_Decision_Statement/obj/Debug/netcoreapp2.1/4_If_Decision_Statement.AssemblyInfoInputs.cache
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/4_If_Decision_Statement/obj/Debug/netcoreapp2.1/4_If_Decision_Statement.AssemblyInfo.cs
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/4_If_Decision_Statement/obj/Debug/netcoreapp2.1/4_If_Decision_Statement.dll
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/4_If_Decision_Statement/obj/Debug/netcoreapp2.1/4_If_Decision_Statement.pdb

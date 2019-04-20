@@ -1,0 +1,10 @@
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/11_Working_with_Dates_and_Times/bin/Debug/netcoreapp2.1/11_Working_with_Dates_and_Times.deps.json
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/11_Working_with_Dates_and_Times/bin/Debug/netcoreapp2.1/11_Working_with_Dates_and_Times.runtimeconfig.json
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/11_Working_with_Dates_and_Times/bin/Debug/netcoreapp2.1/11_Working_with_Dates_and_Times.runtimeconfig.dev.json
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/11_Working_with_Dates_and_Times/bin/Debug/netcoreapp2.1/11_Working_with_Dates_and_Times.dll
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/11_Working_with_Dates_and_Times/bin/Debug/netcoreapp2.1/11_Working_with_Dates_and_Times.pdb
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/11_Working_with_Dates_and_Times/obj/Debug/netcoreapp2.1/11_Working_with_Dates_and_Times.csproj.CoreCompileInputs.cache
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/11_Working_with_Dates_and_Times/obj/Debug/netcoreapp2.1/11_Working_with_Dates_and_Times.AssemblyInfoInputs.cache
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/11_Working_with_Dates_and_Times/obj/Debug/netcoreapp2.1/11_Working_with_Dates_and_Times.AssemblyInfo.cs
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/11_Working_with_Dates_and_Times/obj/Debug/netcoreapp2.1/11_Working_with_Dates_and_Times.dll
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/11_Working_with_Dates_and_Times/obj/Debug/netcoreapp2.1/11_Working_with_Dates_and_Times.pdb
