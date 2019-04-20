@@ -75,7 +75,6 @@ namespace _10_Working_with_Strings
                 myString.Append(i);
             }
 
-
             Console.WriteLine(myString);
             Console.ReadLine();
         }

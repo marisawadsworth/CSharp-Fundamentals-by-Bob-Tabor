@@ -1,19 +1,21 @@
-﻿<Properties StartupConfiguration="{F7B3ADE0-77D4-4CFE-8681-9CA31F3EB7A4}|Default">
+﻿<Properties StartupConfiguration="{4970332D-5D94-41F1-860E-CF4924809F4C}|Default">
   <MonoDevelop.Ide.ItemProperties.6__For__Iteration__Statement PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.8__Defining__and__Calling__Methods PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.10__Working__with__Strings PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.7__Understanding__Arrays PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="11_Working_with_Dates_and_Times/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="10_Working_with_Strings/Program.cs">
     <Files>
-      <File FileName="11_Working_with_Dates_and_Times/Program.cs" Line="1" Column="14" />
+      <File FileName="11_Working_with_Dates_and_Times/Program.cs" Line="45" Column="29" />
+      <File FileName="10_Working_with_Strings/Program.cs" Line="77" Column="13" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="C-Fundamentals-by-Bob-Tabor" expanded="True">
-            <Node name="11_Working_with_Dates_and_Times" expanded="True">
+            <Node name="10_Working_with_Strings" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
+            <Node name="11_Working_with_Dates_and_Times" expanded="True" />
             <Node name="19_Enumerations_and_the_Switch_Decision_Statement" expanded="True" />
             <Node name="20_Gracefully_Handling_Exceptions" expanded="True" />
             <Node name="21_Understanding_Events_and_Event-Driven_Programming" expanded="True" />
@@ -27,6 +29,7 @@
   <MonoDevelop.Ide.ItemProperties.9__While__Iteration__Statement PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.11__Working__with__Dates__and__Times PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
       <Breakpoint enabled="false" file="/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/6_For_Iteration_Statement/Program.cs" relfile="6_For_Iteration_Statement/Program.cs" line="20" column="1" />
