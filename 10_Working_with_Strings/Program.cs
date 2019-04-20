@@ -6,7 +6,10 @@ namespace _10_Working_with_Strings
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            string myString = "";
+
+            Console.WriteLine(myString);
+            Console.ReadLine();
         }
     }
 }
