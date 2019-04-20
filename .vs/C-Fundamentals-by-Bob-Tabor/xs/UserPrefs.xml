@@ -3,19 +3,20 @@
   <MonoDevelop.Ide.ItemProperties.8__Defining__and__Calling__Methods PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.10__Working__with__Strings PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.7__Understanding__Arrays PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="21_Understanding_Events_and_Event-Driven_Programming/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="11_Working_with_Dates_and_Times/Program.cs">
     <Files>
       <File FileName="11_Working_with_Dates_and_Times/Program.cs" Line="1" Column="14" />
-      <File FileName="18_Working_with_LINQ/Program.cs" Line="5" Column="30" />
-      <File FileName="19_Enumerations_and_the_Switch_Decision_Statement/Program.cs" Line="5" Column="30" />
-      <File FileName="20_Gracefully_Handling_Exceptions/Program.cs" Line="5" Column="30" />
-      <File FileName="21_Understanding_Events_and_Event-Driven_Programming/Program.cs" Line="5" Column="30" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="C-Fundamentals-by-Bob-Tabor" expanded="True">
-            <Node name="11_Working_with_Dates_and_Times" expanded="True" />
+            <Node name="11_Working_with_Dates_and_Times" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="19_Enumerations_and_the_Switch_Decision_Statement" expanded="True" />
+            <Node name="20_Gracefully_Handling_Exceptions" expanded="True" />
+            <Node name="21_Understanding_Events_and_Event-Driven_Programming" expanded="True" />
           </Node>
         </State>
       </Pad>
