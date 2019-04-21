@@ -6,4 +6,7 @@
     <RootNamespace>_16_Creating_and_Adding_References_to_Assemblies</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\MyCodeLibrary\MyCodeLibrary.csproj" />
+  </ItemGroup>
 </Project>

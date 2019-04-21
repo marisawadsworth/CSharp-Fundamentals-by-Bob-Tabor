@@ -8,3 +8,7 @@
 /Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/16_Creating_and_Adding_References_to_Assemblies/obj/Debug/netcoreapp2.1/16_Creating_and_Adding_References_to_Assemblies.AssemblyInfo.cs
 /Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/16_Creating_and_Adding_References_to_Assemblies/obj/Debug/netcoreapp2.1/16_Creating_and_Adding_References_to_Assemblies.dll
 /Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/16_Creating_and_Adding_References_to_Assemblies/obj/Debug/netcoreapp2.1/16_Creating_and_Adding_References_to_Assemblies.pdb
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/16_Creating_and_Adding_References_to_Assemblies/bin/Debug/netcoreapp2.1/MyCodeLibrary.dll
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/16_Creating_and_Adding_References_to_Assemblies/bin/Debug/netcoreapp2.1/MyCodeLibrary.pdb
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/16_Creating_and_Adding_References_to_Assemblies/obj/Debug/netcoreapp2.1/16_Creating_and_Adding_References_to_Assemblies.csprojAssemblyReference.cache
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/16_Creating_and_Adding_References_to_Assemblies/obj/Debug/netcoreapp2.1/16_Creating_and_Adding_References_to_Assemblies.csproj.CopyComplete

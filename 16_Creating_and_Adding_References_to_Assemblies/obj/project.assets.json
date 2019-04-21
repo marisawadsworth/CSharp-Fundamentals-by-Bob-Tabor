@@ -207,6 +207,16 @@
         "build": {
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
+      },
+      "MyCodeLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.1",
+        "compile": {
+          "bin/placeholder/MyCodeLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MyCodeLibrary.dll": {}
+        }
       }
     }
   },
@@ -680,11 +690,17 @@
         "netstandard.library.2.0.3.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
+    },
+    "MyCodeLibrary/1.0.0": {
+      "type": "project",
+      "path": "../MyCodeLibrary/MyCodeLibrary.csproj",
+      "msbuildProject": "../MyCodeLibrary/MyCodeLibrary.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.1": [
-      "Microsoft.NETCore.App >= 2.1.0"
+      "Microsoft.NETCore.App >= 2.1.0",
+      "MyCodeLibrary >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -714,7 +730,11 @@
       },
       "frameworks": {
         "netcoreapp2.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/MyCodeLibrary/MyCodeLibrary.csproj": {
+              "projectPath": "/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/MyCodeLibrary/MyCodeLibrary.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

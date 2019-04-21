@@ -1,0 +1,8 @@
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/MyCodeLibrary/bin/Debug/netcoreapp2.1/MyCodeLibrary.deps.json
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/MyCodeLibrary/bin/Debug/netcoreapp2.1/MyCodeLibrary.dll
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/MyCodeLibrary/bin/Debug/netcoreapp2.1/MyCodeLibrary.pdb
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/MyCodeLibrary/obj/Debug/netcoreapp2.1/MyCodeLibrary.csproj.CoreCompileInputs.cache
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/MyCodeLibrary/obj/Debug/netcoreapp2.1/MyCodeLibrary.AssemblyInfoInputs.cache
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/MyCodeLibrary/obj/Debug/netcoreapp2.1/MyCodeLibrary.AssemblyInfo.cs
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/MyCodeLibrary/obj/Debug/netcoreapp2.1/MyCodeLibrary.dll
+/Users/marisawadsworth/Desktop/COURSE 2019/6211/C-Fundamentals-by-Bob-Tabor/MyCodeLibrary/obj/Debug/netcoreapp2.1/MyCodeLibrary.pdb

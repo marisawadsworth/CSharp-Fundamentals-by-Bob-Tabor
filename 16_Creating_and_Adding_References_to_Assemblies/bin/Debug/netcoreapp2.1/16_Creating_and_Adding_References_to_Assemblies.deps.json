@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v2.1": {
       "16_Creating_and_Adding_References_to_Assemblies/1.0.0": {
+        "dependencies": {
+          "MyCodeLibrary": "1.0.0"
+        },
         "runtime": {
           "16_Creating_and_Adding_References_to_Assemblies.dll": {}
+        }
+      },
+      "MyCodeLibrary/1.0.0": {
+        "runtime": {
+          "MyCodeLibrary.dll": {}
         }
       }
     }
   },
   "libraries": {
     "16_Creating_and_Adding_References_to_Assemblies/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyCodeLibrary/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

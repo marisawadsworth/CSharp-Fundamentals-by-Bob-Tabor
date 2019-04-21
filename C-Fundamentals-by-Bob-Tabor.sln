@@ -43,6 +43,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20_Gracefully_Handling_Exce
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "21_Understanding_Events_and_Event-Driven_Programming", "21_Understanding_Events_and_Event-Driven_Programming\21_Understanding_Events_and_Event-Driven_Programming.csproj", "{E5873E0F-0A00-4CB5-A05C-B76EC38B6BC1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyCodeLibrary", "MyCodeLibrary\MyCodeLibrary.csproj", "{A56BDD23-8EC6-4F59-A44E-D21CD6A3CA13}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -133,5 +135,9 @@ Global
 		{E5873E0F-0A00-4CB5-A05C-B76EC38B6BC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E5873E0F-0A00-4CB5-A05C-B76EC38B6BC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E5873E0F-0A00-4CB5-A05C-B76EC38B6BC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A56BDD23-8EC6-4F59-A44E-D21CD6A3CA13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A56BDD23-8EC6-4F59-A44E-D21CD6A3CA13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A56BDD23-8EC6-4F59-A44E-D21CD6A3CA13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A56BDD23-8EC6-4F59-A44E-D21CD6A3CA13}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
