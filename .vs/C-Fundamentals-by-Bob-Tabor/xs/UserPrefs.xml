@@ -1,23 +1,23 @@
-﻿<Properties StartupConfiguration="{3EB3B670-CADE-4B95-84EA-216E3478F7A4}|Default">
+﻿<Properties StartupConfiguration="{D823D476-FF92-406B-B6D1-033A7C2B47A6}|Default">
   <MonoDevelop.Ide.ItemProperties.15__Understanding__Namespace__and__Working__with__the__.Net__Class__Library PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.6__For__Iteration__Statement PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.8__Defining__and__Calling__Methods PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.10__Working__with__Strings PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.7__Understanding__Arrays PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="MyCodeLibrary/Scrape.cs">
+  <MonoDevelop.Ide.ItemProperties.17__Working__with__Collections PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="17_Working_with_Collections/Program.cs">
     <Files>
-      <File FileName="16_Creating_and_Adding_References_to_Assemblies/Program.cs" Line="7" Column="34" />
-      <File FileName="MyCodeLibrary/Scrape.cs" Line="25" Column="30" />
+      <File FileName="17_Working_with_Collections/Program.cs" Line="5" Column="30" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="C-Fundamentals-by-Bob-Tabor" expanded="True">
-            <Node name="15_Understanding_Namespace_and_Working_with_the_.Net_Class_Library" expanded="True" />
-            <Node name="16_Creating_and_Adding_References_to_Assemblies" expanded="True" />
+            <Node name="17_Working_with_Collections" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
             <Node name="MyCodeLibrary" expanded="True">
               <Node name="Dependencies" expanded="True" />
-              <Node name="Scrape.cs" selected="True" />
             </Node>
           </Node>
         </State>
