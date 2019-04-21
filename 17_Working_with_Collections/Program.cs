@@ -58,6 +58,21 @@ namespace _17_Working_with_Collections
 
             Console.WriteLine(myDictionary["B2"].Make);
 
+            /*
+            //Object Initializer
+            //No need for Constructors.
+            Car car1 = new Car { Make = "BMW", Model = "750li", VIN = "C3"},
+            Car car2 = new Car { Make = "Toyota", Model = "4Runner", VIN = "D4" };
+
+
+            //Collection Initializer
+            List<Car> myList = new List<Car>();
+            {
+                new Car { Make = "Nissian", Model = "Altima", VIN = "E5"},
+                new Car { Make = "Ford", Model = "Focus", VIN = "F6" };
+            }
+            */
+
             Console.ReadLine();
         }
     }
