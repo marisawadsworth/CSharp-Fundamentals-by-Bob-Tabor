@@ -7,15 +7,15 @@
   <MonoDevelop.Ide.ItemProperties.7__Understanding__Arrays PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.18__Working__with__LINQ PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.17__Working__with__Collections PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="21_Understanding_Events_and_Event-Driven_Programming/Program.cs">
-    <Files>
-      <File FileName="21_Understanding_Events_and_Event-Driven_Programming/Program.cs" Line="14" Column="10" />
-    </Files>
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="C-Fundamentals-by-Bob-Tabor" expanded="True">
-            <Node name="21_Understanding_Events_and_Event-Driven_Programming" expanded="True" />
+            <Node name="1_HelloWorld" expanded="True" />
+            <Node name="21_Understanding_Events_and_Event-Driven_Programming" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
