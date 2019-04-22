@@ -1,22 +1,22 @@
-﻿<Properties StartupConfiguration="{A5077C8B-5F5E-455D-945D-5AA79C0458F4}|Default">
+﻿<Properties StartupConfiguration="{B8C1519E-CA8D-48E5-95FF-FA8E62D3C729}|Default">
   <MonoDevelop.Ide.ItemProperties.15__Understanding__Namespace__and__Working__with__the__.Net__Class__Library PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.19__Enumerations__and__the__Switch__Decision__Statement PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.6__For__Iteration__Statement PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.8__Defining__and__Calling__Methods PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.10__Working__with__Strings PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.7__Understanding__Arrays PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.18__Working__with__LINQ PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.17__Working__with__Collections PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="18_Working_with_LINQ/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="19_Enumerations_and_the_Switch_Decision_Statement/Program.cs">
     <Files>
-      <File FileName="18_Working_with_LINQ/Program.cs" Line="13" Column="17" />
-      <File FileName="17_Working_with_Collections/Program.cs" Line="69" Column="13" />
+      <File FileName="19_Enumerations_and_the_Switch_Decision_Statement/Program.cs" Line="61" Column="1" />
+      <File FileName="18_Working_with_LINQ/Program.cs" Line="25" Column="43" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="C-Fundamentals-by-Bob-Tabor" expanded="True">
-            <Node name="17_Working_with_Collections" expanded="True" />
-            <Node name="18_Working_with_LINQ" expanded="True">
+            <Node name="19_Enumerations_and_the_Switch_Decision_Statement" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
