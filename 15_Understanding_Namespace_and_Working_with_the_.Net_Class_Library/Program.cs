@@ -20,7 +20,6 @@ namespace _15_Understanding_Namespace_and_Working_with_the_.Net_Class_Library
             //Needs the using System.IO; to work. Saves the file onto the computer.
             File.WriteAllText(@"C:\Lesson17\WriteTxt.txt", reply);
             Console.ReadLine();
-
         }
     }
 }

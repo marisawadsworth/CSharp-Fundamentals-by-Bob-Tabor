@@ -7,7 +7,7 @@
 
 <meta name="DCS.dcsuri" content="/en-us/dn308572(d=default,l=en-us,v=msdn.10).aspx" />
 
-<meta name="MN" content="7E0B5510-5:38:32 AM" />
+<meta name="MN" content="DB63E075-10:41:57 PM" />
 
 <meta name="ms.assetid" content="153034a4-6dd7-42d4-9397-bb50d30a478d" />
 
@@ -546,7 +546,7 @@
             
 
 
-<input name="__RequestVerificationToken" type="hidden" value="pJeqvY49oLaAjBlFE9CFs84hdtF8JSRNymuUrQZggN8raAxXktWWVTXAmj8zD0mdec4h62kyZJ4dpd2-KfbPALCMbRQ1" />
+<input name="__RequestVerificationToken" type="hidden" value="Rk03pIYWcqX5ipDUFc_JVSrsusWNyHQG9Dn1g1_7N1taHQhUsa-gkp4oh4yJZmhlmaucmu340xzmBYz-DfjB9aA_HxQ1" />
 <input id="ratingSubmitUrl" type="hidden" value="https://msdn.microsoft.com/en-us/library/feedback/add/dn308572" />
 <input id="isTopicRated" type="hidden" value="false" />
 
