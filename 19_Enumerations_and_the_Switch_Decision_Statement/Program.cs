@@ -4,6 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//You primarily use Enums to
+//To constrain the number of values a given property or variable can be set to.
+
 namespace EnumsAndSwitch
 {
     class Program
