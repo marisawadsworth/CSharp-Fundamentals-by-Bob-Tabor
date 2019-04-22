@@ -1,4 +1,4 @@
-﻿<Properties StartupConfiguration="{B8C1519E-CA8D-48E5-95FF-FA8E62D3C729}|Default">
+﻿<Properties StartupConfiguration="{C0175FF5-52E9-432B-845D-F262443A0C42}|Default">
   <MonoDevelop.Ide.ItemProperties.15__Understanding__Namespace__and__Working__with__the__.Net__Class__Library PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.19__Enumerations__and__the__Switch__Decision__Statement PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.6__For__Iteration__Statement PreferredExecutionTarget="MonoDevelop.Default" />
@@ -7,15 +7,16 @@
   <MonoDevelop.Ide.ItemProperties.7__Understanding__Arrays PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.18__Working__with__LINQ PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.17__Working__with__Collections PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="19_Enumerations_and_the_Switch_Decision_Statement/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="20_Gracefully_Handling_Exceptions/Program.cs">
     <Files>
-      <File FileName="19_Enumerations_and_the_Switch_Decision_Statement/Program.cs" Line="71" Column="43" />
+      <File FileName="20_Gracefully_Handling_Exceptions/Program.cs" Line="15" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="C-Fundamentals-by-Bob-Tabor" expanded="True">
-            <Node name="19_Enumerations_and_the_Switch_Decision_Statement" expanded="True">
+            <Node name="17_Working_with_Collections" expanded="True" />
+            <Node name="20_Gracefully_Handling_Exceptions" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -29,6 +30,7 @@
   <MonoDevelop.Ide.ItemProperties.16__Creating__and__Adding__References__to__Assemblies PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.13__More__About__Classes__and__Methods PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.9__While__Iteration__Statement PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.20__Gracefully__Handling__Exceptions PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.11__Working__with__Dates__and__Times PreferredExecutionTarget="MonoDevelop.Default" />
