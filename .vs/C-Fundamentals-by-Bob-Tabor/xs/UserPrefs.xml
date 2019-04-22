@@ -7,17 +7,18 @@
   <MonoDevelop.Ide.ItemProperties.7__Understanding__Arrays PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.18__Working__with__LINQ PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.17__Working__with__Collections PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="4_If_Decision_Statement/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="5_Operators_Expressions_and_Statements/Program.cs">
     <Files>
       <File FileName="3_Data_Types_and_Variables/Program.cs" Line="26" Column="2" />
       <File FileName="4_If_Decision_Statement/Program.cs" Line="58" Column="2" />
+      <File FileName="5_Operators_Expressions_and_Statements/Program.cs" Line="87" Column="2" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="C-Fundamentals-by-Bob-Tabor" expanded="True">
             <Node name="2_Variables" expanded="True" />
-            <Node name="4_If_Decision_Statement" expanded="True">
+            <Node name="5_Operators_Expressions_and_Statements" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
